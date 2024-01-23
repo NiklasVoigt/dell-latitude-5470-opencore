@@ -1,4 +1,4 @@
-# DELL Latitude E5570 Hackintosh Opencore
+# DELL Latitude E5470 Hackintosh Opencore
 
 <p align="center">
   <img src="./screens/screenshot.png" style="margin: auto;"/>
