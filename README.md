@@ -6,7 +6,7 @@
 
 ## Overview
 
-This is the Hackintosh Opencore EFI for the DELL Latitude E5570. Available for some DELL Latitude E5470 models. ([See more](https://github.com/misa198/dell-latitude-e5570-hackintosh/issues/9))
+This is the Hackintosh Opencore EFI for the DELL Latitude E4570. ([See more](https://github.com/misa198/dell-latitude-e5570-hackintosh/issues/9))
 
 This EFI is for `Sonoma`.
 If you want to use for `Big Sur/Monterey`, please use [this](https://github.com/misa198/dell-latitude-5570-hackintosh/releases/tag/1.5.2)
