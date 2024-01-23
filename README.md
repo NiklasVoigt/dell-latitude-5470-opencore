@@ -13,7 +13,7 @@ If you want to use for `Big Sur/Monterey`, please use [this](https://github.com/
 
 ## Specs
 
-<p><i>This is spec of my laptop. This EFI can be used for all of DELL Latitude E5570</i></p>
+<p><i>This is spec of my laptop. This EFI can be used for all of DELL Latitude E5470</i></p>
 
 | Part             | Description                                                                                                    |
 | ---------------- | -------------------------------------------------------------------------------------------------------------- |
